@@ -273,5 +273,18 @@
     "category": "Audio/Video",
     "region": "Global",
     "tags": ["Free", "Pro"]
+  },
+  {
+    "id": "agent-qa",
+    "name": "agent-qa",
+    "description": "网页与移动端QA，持久记忆与经验证的自我改进，保留步骤和截图。",
+    "url": "https://vostride.com",
+    "icon": "Code",
+    "category": "Coding",
+    "tags": [
+      "QA",
+      "Memory",
+      "MCP"
+    ]
   }
 ]
